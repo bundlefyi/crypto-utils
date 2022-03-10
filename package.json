@@ -1,0 +1,26 @@
+{
+	"name": "collect",
+	"version": "0.0.1",
+	"description": "A collection of crypto utilities for Collect",
+	"homepage": "https://github.com/collectwallet/crypto-utils#readme",
+	"author": "dev@getcollect.app",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/collectwallet/crypto-utils/issues"
+	},
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/collectwallet/crypto-utils.git"
+	},
+	"keywords": [
+		"crypto",
+		"utilities",
+		"collect",
+		"wallet",
+		"aleph zero"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
