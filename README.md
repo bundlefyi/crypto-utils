@@ -10,10 +10,15 @@ npm i --save @getcollect/crypto-utils
 
 ### Mnemonic Generation
 
-`mnemonicGenerate` implements the generation of a mnemonic code -- a group of easy to remember words used to generate deterministic wallets using BIP-39.
+`generateMnemonic` implements the generation of a mnemonic code -- a group of easy to remember words used to generate deterministic wallets using BIP-39.
 
 #### Usage
 
-```javascript
-import { mnemonicGenerate } from '@getcollect/crypto-utils';
+```typescript
+import { generateMnemonic } from '@getcollect/crypto-utils';
+```
+
+```typescript
+const seed = generateMnemonic();
+console.log(seed); // seed sock milk update focus rotate barely fade car face mechanic mercy
 ```
