@@ -35,5 +35,10 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.17.8",
+    "randombytes-pure": "^4.1.0",
+    "sha256-uint8array": "^0.10.3"
   }
 }
