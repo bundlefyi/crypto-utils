@@ -1,6 +1,6 @@
 {
   "name": "@getcollect/crypto-utils",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "A collection of crypto utilities used by Collect",
   "homepage": "https://github.com/collectwallet/crypto-utils#readme",
   "author": "dev@getcollect.app",
