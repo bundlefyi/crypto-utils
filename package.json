@@ -1,6 +1,6 @@
 {
   "name": "@bundlefyi/crypto-utils",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A collection of crypto utilities used by Bundle",
   "homepage": "https://github.com/bundlefyi/crypto-utils#readme",
   "author": "dev@bundle.fyi",
