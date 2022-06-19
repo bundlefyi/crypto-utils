@@ -1,11 +1,11 @@
-# @getcollect/crypto-utils
+# @bundlefyi/crypto-utils
 
-A collection of useful crypto utilities for react-native used by Collect.
+A collection of useful crypto utilities for react-native used by Bundle.
 
 ## Install
 
 ```javascript
-npm i --save @getcollect/crypto-utils
+npm i --save @bundlefyi/crypto-utils
 ```
 
 ## Mnemonic Generation
@@ -17,7 +17,7 @@ npm i --save @getcollect/crypto-utils
 #### Usage
 
 ```typescript
-import { generateMnemonic } from '@getcollect/crypto-utils';
+import { generateMnemonic } from '@bundlefyi/crypto-utils';
 ```
 
 ```typescript

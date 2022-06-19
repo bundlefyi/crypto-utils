@@ -1,12 +1,12 @@
 {
-  "name": "@getcollect/crypto-utils",
+  "name": "@bundlefyi/crypto-utils",
   "version": "0.2.0",
-  "description": "A collection of crypto utilities used by Collect",
-  "homepage": "https://github.com/collectwallet/crypto-utils#readme",
-  "author": "dev@getcollect.app",
+  "description": "A collection of crypto utilities used by Bundle",
+  "homepage": "https://github.com/bundlefyi/crypto-utils#readme",
+  "author": "dev@bundle.fyi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/collectwallet/crypto-utils/issues"
+    "url": "https://github.com/bundlefyi/crypto-utils/issues"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/collectwallet/crypto-utils.git"
+    "url": "git+https://github.com/bundlefyi/crypto-utils.git"
   },
   "keywords": [
     "crypto",
