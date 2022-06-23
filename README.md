@@ -1,6 +1,6 @@
 # @bundlefyi/crypto-utils
 
-A collection of useful crypto utilities for react-native used by Bundle.
+A collection of useful crypto utilities for react-native.
 
 ## Install
 
